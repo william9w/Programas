@@ -7,7 +7,7 @@ Ejercicio 60:Calcular el Valor absoluto.
 
 Autor :Mendoza Perez Max William
 max.mendoza201@tectijuana.edu.mx
-Repositorio:https://github.com/Karen25-2/interfaz.git
+Repositorio:
 
 */
 .data
